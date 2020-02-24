@@ -1,0 +1,16 @@
+1) Отсутствует README
+
+
+2) 12 commit-ов:
+	1.  init
+	2.  boots
+	3.  README added
+	4.  dots
+	5.  fix readme
+	6.  Merge remote-tracking branch 'origin/boots' into boots_buttons
+	7.  Merge remote-tracking branch 'origin/buttons' into boots_buttons
+	8.  Delete README
+	9.  Delete human.txt
+	10. Add files via upload
+	11. Merge branch 'hat'
+	12. Added hometask.
